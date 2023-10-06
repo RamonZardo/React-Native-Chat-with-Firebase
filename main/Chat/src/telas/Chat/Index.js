@@ -55,7 +55,7 @@ export default function Chat({navigation}) {
     });
 
   }
-  }
+  
 
  
 
@@ -86,7 +86,6 @@ export default function Chat({navigation}) {
     
 
   
-    
     
   );
 }
