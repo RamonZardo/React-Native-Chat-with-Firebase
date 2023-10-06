@@ -25,6 +25,7 @@ export default function Registro({navigation}) {
         createUserWithEmailAndPassword(auth, email, password)
             .then((userCredential) => {
                 const user = userCredential.user;
+                navigation.navigate('Chat')
                                
                 
                 console.log(user)

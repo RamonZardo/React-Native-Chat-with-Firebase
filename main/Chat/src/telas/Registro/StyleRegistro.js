@@ -33,7 +33,7 @@ export default StyleRegistro = StyleSheet.create ({
         
     },
     ViewSeta:{
-      top: -200,
+      top: -175,
       left: -150,
       
       
